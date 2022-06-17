@@ -1,0 +1,321 @@
+
+.navbar {
+    background-color: #323030;
+   
+}
+
+#myCarousel{
+    background-color: #323030; 
+}
+
+#tentang {
+    font-family: Roboto;
+    margin-top: -10px;
+    font-size: medium;
+    color : white;
+}
+
+#menu{
+    font-family: Roboto;
+    margin-top: -10px;
+    font-size: medium;
+    color : white;
+}
+.navbar h1{
+    font-family: Roboto;
+  color : white;
+}
+
+#lokasi{
+    font-family: Roboto;
+    margin-top: -10px;
+    font-size: medium;
+    color : white;
+}
+
+#hubungi{
+    font-family: Roboto;
+    margin-top: -10px;
+    font-size: medium;
+    color : white;
+}
+
+
+
+.carousel p{
+    font-family: Roboto;
+    font-size: medium;
+
+}
+.menu{
+    background-color: #323030;  
+}
+.menu h1{
+    font-family: Roboto;
+    color:white;
+    text-align : center;
+    position: relative;
+    right: -22px;
+  }
+
+  .menu h2{
+    font-family: Roboto;
+    color:white;
+    text-align : center;
+    position: relative;
+    right: 600px;
+  }
+.menu h3{
+    font-family: Roboto;
+  color:white;
+    text-align : center;
+    position: relative;
+    left: 600px;
+    top: -25px
+}
+.menu img{
+    position : relative;
+    right : -770px;
+    top: -55px;
+  }
+
+.menu p{
+    font-family: Roboto;
+    color:white;
+    font-size: medium;
+    position: relative;
+    right: -650px;
+    top: -50px;
+}
+
+.gambar img{
+    position:relative;
+    right : -550px;
+  }
+
+.gambar p{
+    font-family: Roboto;
+    font-size: large;
+    right: -710px;
+    top: -50px;
+}  
+
+.gambar h1{
+    font-family: Roboto;
+    top : -30px;
+    right : -30px;
+}
+
+.salmon img{
+
+    right: -90px;
+    top: 0px;
+}
+
+.salmon p{
+    font-family: Roboto;
+    font-size: large;
+    right: -250px;
+    top: 0px; 
+}
+
+.mimik img{
+   
+    right: -650px;
+    top: -270px;
+}
+
+.mimik p{
+    font-family: Roboto;
+    font-size: large;
+    right: -700px;
+    top: -270px; 
+}
+
+.iwak_kentang img{
+    
+    right: -1050px;
+    top: -543px;
+}
+
+.iwak_kentang p{
+    font-family: Roboto;
+    font-size: large;
+    right: -1240px;
+    top: -543px;  
+}
+
+.kerang img{
+    
+    right: -90px;
+    top: -543px;
+}
+
+.kerang p{
+    font-family: Roboto;
+    font-size: large;
+    right: -180px;
+    top: -543px; 
+}
+
+.pink img{
+   
+    right: -650px;
+    top: -810px;
+}
+
+.pink p{
+    font-family: Roboto;
+    font-size: large;
+    right: -700px;
+    top: -810px;   
+}
+
+.woku img{
+    
+    right: -1050px;
+    top: -1080px; 
+}
+
+.woku p{
+    font-family: Roboto;
+    font-size: large;
+    right: -1250px;
+    top: -1080px;  
+}
+
+.all p{
+    font-family: Roboto; 
+    font-size: large;
+    top : -900px;
+    right: -650px;
+}
+
+.all img{
+    
+    right: -800px;
+    top: -940px;  
+}
+.box{
+    margin : 100px auto;
+    position: relative;
+    right: -300px;
+    top: -1085px;
+    border: 4px solid black;
+    width: 400px;
+    border-radius: 40px;
+    height: 50px;
+    color : black;
+}
+
+.input{
+    outline : none;
+    height: 40px;
+    width: 300px;
+    border-radius: 40px;
+    border : 0;
+    
+}
+
+.src{
+    background:transparent;
+    outline: none;
+    border: 0;
+    padding-left: 10px;
+}
+
+.box:hover{
+    background-color:lightblue;
+
+}
+
+.tentang{
+    background-color: #B6B0B0;
+    
+    
+}
+
+.tentang img{
+    position:relative;
+    right: -700px;
+  
+}
+
+.tentang h1{
+    font-family: Roboto;
+    text-align: center;
+    position: relative;
+    top: 30px;
+}
+
+.tentang p{
+    font-family: Roboto;
+    font-size: xx-large;
+    position: relative;
+    right: -90px;
+    top: 0px;
+}
+
+.whatsapp img{
+    position:relative;
+    right: -195px;
+    top: -70px;
+}
+
+.ombak img{
+    position:relative;
+    right: -650px;
+    top: -300px;
+}
+
+.tentang_2 p{
+    font-family: Roboto;
+    font-size: xx-large;
+    position: relative;
+    right: -1150px;
+    top: -600px;
+}
+
+.tentang_2 img{
+    position:relative;
+    right: -1260px;
+    top: -670px;
+}
+
+.sosmed{
+    background-color: #323030;
+    position: relative;
+    top:0px;
+}
+
+.sosmed h1{
+    position: relative;
+    right: -500px;
+    top: 0px;
+    color: white;
+    font-family: Roboto;
+}
+
+.sosmed img{
+    position: relative;
+    right: -700px;
+    top: 0px;
+}
+
+.akhiran img{
+    position: relative;
+    right: -100px;
+}
+.akhiran h2{
+    font-family: Roboto;
+     position: relative;
+    right: -590px;
+    color:white;
+    
+}
+
+
+
+
+
+
